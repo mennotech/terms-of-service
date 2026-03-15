@@ -1,6 +1,6 @@
 # Mennotech Terms and Conditions
 
-Last updated: November 12, 2024
+Last updated: March 15, 2026
 
 Please read these terms and conditions carefully before using Our Service.
 
@@ -51,7 +51,7 @@ You represent that you are over the age of 18. The Company does not permit those
 
 Your access, receiving or use of this Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
 
-Our Privay Policy is posted at https://mennotech.ca/privacy
+Our Privacy Policy is posted at https://mennotech.ca/privacy
 
 
 # Placing Orders for Goods
@@ -175,7 +175,7 @@ Upon termination, Your right to use the Service will cease immediately.
 
 # Limitation of Liability
 
-Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service. If you have purchased a Subscription the limit will be equivilent to two months of Subscription fees. The limit will be 100 CAD if You haven't purchased a Subscription or anything through the Service.
+Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service. If you have purchased a Subscription the limit will be equivalent to two months of Subscription fees. The limit will be 100 CAD if You haven't purchased a Subscription or anything through the Service.
 
 To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service or the receiving of the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
 
@@ -206,7 +206,7 @@ If You are a European Union consumer, you will benefit from any mandatory provis
 
 
 # United States Federal Government End Use Provisions
-If You are a U.S. federal government end user, our Service is a "Commercial Item" as that term is defined at 48 C.F.R. Â§2.101.
+If You are a U.S. federal government end user, our Service is a "Commercial Item" as that term is defined at 48 C.F.R. §2.101.
 
 
 
