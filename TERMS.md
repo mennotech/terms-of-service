@@ -233,7 +233,7 @@ By continuing to access, receive or use Our Service after those revisions become
 If you have any questions about these Terms and Conditions, You can contact us:
 
 
-- By email: info@mennotech.ca
-- Webform: https://support.mennotech.ca/
-- By phone or SMS: +1 (855) 709-3330 *
+- By email: [info@mennotech.ca](mailto:info@mennotech.ca)
+- Webform: [https://support.mennotech.ca/](https://support.mennotech.ca/)
+- By phone or SMS: [+1 (855) 709-3330](tel:+18557093330)
 
