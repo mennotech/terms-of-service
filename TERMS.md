@@ -14,27 +14,18 @@ The words of which the initial letter is capitalized have meanings defined under
 
 For the purposes of these Terms and Conditions:
 
-
-
 - __Affiliate__ means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
-
 - __Country__ refers to: Manitoba,  Canada
-- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Mennotech, 254 Stone Bridge Cross, Steinbach, MB, R5G 2B3.
-
+- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Mennotech, 7-276 Main St.
+Steinbach, MB  R5G 1Y8. Serving Southern Manitoba, Canada
 - __Device__ means any device that can access the Service such as a computer, a cellphone or a digital tablet.
-
-
 - __Goods__ refer to the items offered for sale on the Service.
-
 - __Orders__ mean a request by You to purchase Goods from Us.
-
-
-- __Service__ refers to our website (https://mennotech.ca) and all services rendered to our clients, including but not limited to consulting, planning, implementing, maintaining, securing, configuring, and supporting any computers, servers, network equipment or any other information technology systems and services.
-
+- __Service__ refers to our websites [https://mennotech.ca/](https://mennotech.ca/),[https://support.mennotech.ca/](https://support.mennotech.ca/) and all services rendered to our clients, including but not limited to consulting, planning, implementing, maintaining, securing, configuring, and supporting any computers, servers, network equipment or any other information technology systems and services.
 - __Subscriptions__ refer to the services or access to the Service offered on a subscription basis by the Company to You.
 - __Terms and Conditions__ (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. 
 - __Third-party Social Media Service__ means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
-- __Website__ refers to Mennotech, accessible from [https://mennotech.ca/](https://mennotech.ca/)
+- __Website__ refers to Mennotech, accessible from [https://mennotech.ca/](https://mennotech.ca/),[https://support.mennotech.ca/](https://support.mennotech.ca/)
 - __You__ means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
 # Acknowledgment
@@ -243,9 +234,6 @@ If you have any questions about these Terms and Conditions, You can contact us:
 
 
 - By email: info@mennotech.ca
+- Webform: https://support.mennotech.ca/
+- By phone or SMS: +1 (855) 709-3330 *
 
-
-- By visiting this page on our website: [https://mennotech.ca/terms](https://mennotech.ca/terms)
-
-
-- By phone number: 1 (877) 453-0540
