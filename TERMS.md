@@ -1,6 +1,6 @@
 # Mennotech Terms and Conditions
 
-Last updated: March 15, 2026
+Last updated: March 25, 2026
 
 Please read these terms and conditions carefully before using Our Service.
 
@@ -122,7 +122,15 @@ At the end of each period, Your Subscription will automatically renew under the 
 You may cancel Your Subscription renewal either through Your Account settings page or by contacting the Company.
 You will not receive a refund for the fees You already paid for Your current Subscription period and You will be able to access the Service until the end of Your current Subscription period.
 
+## Emergency Services (9‑1‑1) – VoIP Limitations
 
+Voice over Internet Protocol ("VoIP") telephone services provided by the Company differ from traditional wireline telephone services with respect to access to emergency services (9‑1‑1).
+
+VoIP 9‑1‑1 service depends on the availability of the customer's Internet connection and electrical power. In the event of a power failure, Internet outage, network congestion, or service disruption, VoIP 9‑1‑1 calls may not be completed or may be delayed.
+
+The ability of emergency responders to identify the caller's location depends on the accuracy of the service address associated with the VoIP service. Customers are responsible for ensuring that their service address is kept current and accurate for 9‑1‑1 purposes. If the VoIP service is used from a location other than the registered service address, emergency services may receive incorrect or incomplete location information. Please contact support@mennotech.ca to update your 9-1-1 service address in the event that it has changed.
+
+By subscribing to and using the Companys's VoIP telephony services, the customer acknowledges and accepts these limitations and agrees to maintain up‑to‑date address information for 9‑1‑1 purposes.
 
 ## Billing
 
@@ -171,6 +179,8 @@ Notwithstanding any damages that You might incur, the entire liability of the Co
 To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service or the receiving of the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
 
 Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.
+
+Additional limitations related to emergency services (9‑1‑1) are described under **Emergency Services (9‑1‑1) – VoIP Limitations** in the Subscriptions for VoIP Telephony Services section
 
 # "AS IS" and "AS AVAILABLE" Disclaimer
 
